@@ -2,4 +2,4 @@
 ## ACTIVIDAD 
 ---
 ##### SUBIR EL MEME QUE CREAMOS EN EL PRIMER MOMENTO
-<img src="./makeitmeme_XhMMg.jpeg" width="200">
+![Meme Lucho](./makeitmeme_XhMMg.jpeg)
